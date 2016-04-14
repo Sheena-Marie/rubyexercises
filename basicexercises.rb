@@ -4,6 +4,8 @@
 
 #this is a change I want to see in my GitHub repo.
 
+#this is going to be a demo of pull requests.
+
 class Customer #defining the customer as a class
   def initialize(customer) #don't forget to use AMERICAN spelling!!!
     #initialize is really important, don't forget it!!!
