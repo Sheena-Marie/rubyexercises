@@ -2,6 +2,8 @@
 
 #Yet another random comment while learning how to use git.
 
+#this is a change I want to see in my GitHub repo.
+
 class Customer #defining the customer as a class
   def initialize(customer) #don't forget to use AMERICAN spelling!!!
     #initialize is really important, don't forget it!!!
