@@ -1,5 +1,6 @@
 #adding a random comment
 
+#Yet another random comment while learning how to use git.
 
 class Customer #defining the customer as a class
   def initialize(customer) #don't forget to use AMERICAN spelling!!!
